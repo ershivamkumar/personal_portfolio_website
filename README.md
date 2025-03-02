@@ -29,5 +29,5 @@ Check out my portfolio live here: [Your Portfolio Link](https://your-portfolio-l
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone (https://github.com/ershivamkumar/personal_portfolio_website/tree/main)
 
