@@ -17,13 +17,11 @@ Welcome to my **Professional Portfolio Website**! This modern, responsive, and i
 - **Libraries & Frameworks:** Bootstrap (if used), Swiper.js (if used)  
 - **Version Control:** Git & GitHub  
 
-## 📸 Preview
 
-![Portfolio Screenshot](your-image-url)
 
 ## 🔗 Live Demo
 
-Check out my portfolio live here: [Your Portfolio Link](https://your-portfolio-link.com)
+Check out my portfolio live here: [Your Portfolio Link](https://github.com/ershivamkumar/personal_portfolio_website/tree/main)
 
 ## 📌 How to Use
 
